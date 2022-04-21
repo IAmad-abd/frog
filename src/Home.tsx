@@ -1390,7 +1390,7 @@ const Home = (props: HomeProps) => {
                       
                       <div className="tw-border tw-border-solid tw-border-purple-1 tw-p-2 tw-rounded-md tw-text-white-1 tw-h-fit-content tw-text-[14px] tw-flex tw-gap-2 tw-whitespace-nowrap">
                         <span className="tw-font-light">PRICE</span>
-                        <span className="tw-font-bold">1.5 ◎</span>
+                        <span className="tw-font-bold">1.75 ◎</span>
                       </div>
                       <div className="tw-flex tw-items-center tw-gap-2">
                         <div
@@ -1403,7 +1403,7 @@ const Home = (props: HomeProps) => {
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                            href="https://smesh.blockasset.co/"
+                                                                    href="https://www.thestonedfrogs.io/"
                           >
                             <img
                               src="./img/globe_white.1cc8238d.svg"
@@ -1421,7 +1421,7 @@ const Home = (props: HomeProps) => {
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                             href="https://discord.com/invite/blockasset"
+                                                                    href="https://discord.com/invite/stonedfrogs"
                           >
                             <img
                               src="./img/discord_white.a80cd7b6.svg"
@@ -1439,7 +1439,7 @@ const Home = (props: HomeProps) => {
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
-                                                                    href="https://twitter.com/blockassetco"
+                                                                    href="https://twitter.com/TheStonedFrogs"
                           >
                             <img
                               src="./img/twitter_white.646bf11e.svg"
