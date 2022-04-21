@@ -1486,7 +1486,7 @@ const Home = (props: HomeProps) => {
                             </span>
                             <b>•</b>
                             <span>
-                              Price <b>1.5◎</b>
+                              Price <b>1.75◎</b>
                             </span>
                           </div>
                         </div>
@@ -1522,7 +1522,7 @@ const Home = (props: HomeProps) => {
                             </span>
                             <b>•</b>
                             <span>
-                              Price <b>1.5◎</b>
+                              Price <b>1.75◎</b>
                             </span>
                           </div>
                         </div>
